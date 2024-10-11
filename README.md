@@ -1,4 +1,5 @@
 # Hi, I'm Ayantika 👋🏻👩🏻‍💻
+I am a cloud software engineer working primarily on Java and Spring based applications.
 # Around the web 🌏
 - Sharing updates on [Linkedin](https://www.linkedin.com/in/ayantika-sarkar/) 💼  
 
