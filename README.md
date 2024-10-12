@@ -1,21 +1,45 @@
-# Hi, I'm Ayantika 👋🏻👩🏻‍💻
-I am a cloud software engineer working primarily on Java and Spring based applications.
-# Around the web 🌏
-- Sharing updates on [Linkedin](https://www.linkedin.com/in/ayantika-sarkar/) 💼  
+# Hi there! 👋 I'm Ayantika
 
+🌱 I'm a Cloud Software Engineer with a passion for developing and designing applications.  
+💡 I love working on projects that involve cybersecurity 👩🏻‍💻 and cloud ☁️  
+📫 Connect with me on [Linkedin](https://www.linkedin.com/in/ayantika-sarkar/).
 
-<!--
-**Ayantika19/Ayantika19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->  
+- **Languages:** Java, Python
+- **Frameworks:** Spring Framework, Springboot, Flask
+- **Databases:** MySQL, Apache Cassandra, AWS RDS, AWS S3
+- **Tools:** VS Code, GitHub, TeamCity, JIRA, Grafana, Prometheus, GitHub Actions, Confluence, AWS EKS, AWS EC2, Docker, Kubernetes, Helm, Apache Kafka, Linux
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayantika19&show_icons=true&theme=radical)
+
+---
+
+<!-- ## 🚀 Projects
+
+### [Project Name](link-to-your-project)
+- Brief description of the project and what technologies you used.
+
+### [Another Project](link-to-another-project)
+- Brief description of the project and what technologies you used.
+
+---
+-->
+
+## 🌍 Find me around the web
+
+- [LinkedIn](https://www.linkedin.com/in/ayantika-sarkar/)
+- [Medium](https://medium.com/@ayantikasarkar)
+
+---
+
+## 🤝 Contributions
+
+I'm open to collaborating on interesting projects. Feel free to reach out! 
 
